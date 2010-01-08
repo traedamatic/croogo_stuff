@@ -322,7 +322,7 @@ msgstr "Datei erfolgreich erstellt"
 #: \controllers\languages_controller.php:31
 #: \views\elements\admin\navigation.ctp:66
 msgid "Languages"
-msgstr "Sprachenn"
+msgstr "Sprachen"
 
 #: \controllers\languages_controller.php:39
 msgid "Add Language"
@@ -1123,7 +1123,7 @@ msgstr "Sind Sie sicher?"
 #: \views\users\admin_index.ctp:44
 #: \views\vocabularies\admin_index.ctp:41
 msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
-msgstr ""
+msgstr "Seite %page% von %pages%, zeigt %current% Eintrag von ingesamt  %count%, von Eintrag %start%, bis %end%"
 
 #: \plugins\acl\views\acl_actions\admin_add.ctp:9
 #: \plugins\acl\views\acl_actions\admin_edit.ctp:11
@@ -1168,7 +1168,7 @@ msgstr "Nach oben bewegen"
 #: \views\settings\admin_index.ctp:24
 #: \views\terms\admin_index.ctp:32
 msgid "Move down"
-msgstr ""
+msgstr "Nach unten"
 
 #: \plugins\acl\views\acl_aros\admin_index.ctp:6
 msgid "New Aro"
@@ -1180,7 +1180,7 @@ msgstr ""
 
 #: \plugins\acl\views\acl_permissions\admin_toggle.ctp:9
 msgid "error"
-msgstr ""
+msgstr "Fehler"
 
 #: \plugins\debug_kit\controllers\components\toolbar.php:85
 msgid "Component initialization and startup"
@@ -1208,7 +1208,7 @@ msgstr ""
 
 #: \plugins\debug_kit\vendors\fire_cake.php:392
 msgid "Maximum number (99,999) of messages reached!"
-msgstr ""
+msgstr "Maximale Anzahl (99,999) an Nachrichten erreicht"
 
 #: \plugins\debug_kit\views\debug.php:57
 msgid "Rendering %s"
@@ -1272,7 +1272,7 @@ msgstr "Sql Logs"
 
 #: \plugins\debug_kit\views\elements\sql_log_panel.ctp:39
 msgid "No active database connections"
-msgstr ""
+msgstr "Keine aktive Datebankverbindungen"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:31
 msgid "Timers"
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:33
 msgid "%s (seconds)"
-msgstr ""
+msgstr "%s (sekunden)"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:34
 msgid "Total Request Time:"
@@ -1320,7 +1320,7 @@ msgstr "Installation erfolgreicht beendet"
 
 #: \plugins\install\controllers\install_controller.php:132
 msgid "Installataion files deleted successfully."
-msgstr ""
+msgstr "Installations Datei erfolgreich gelöscht"
 
 #: \plugins\install\controllers\install_controller.php:136
 msgid "Could not delete installation files."
@@ -1328,11 +1328,11 @@ msgstr ""
 
 #: \plugins\install\views\install\data.ctp:5
 msgid "Click here to build your database"
-msgstr ""
+msgstr "Hier klicken um ihre Datenbank zu erstellen"
 
 #: \plugins\install\views\install\finish.ctp:21
 msgid "Click here to delete installation files"
-msgstr ""
+msgstr "Klick hier um die Installationsdateien zu löschen"
 
 #: \plugins\install\views\layouts\install.ctp:5
 #: \views\layouts\admin.ctp:5
@@ -1399,17 +1399,17 @@ msgstr "Sichbarkeiten"
 #: \views\blocks\admin_add.ctp:16
 #: \views\blocks\admin_edit.ctp:17
 msgid "unique name for your block"
-msgstr ""
+msgstr "Unique Name für deine Block"
 
 #: \views\blocks\admin_add.ctp:17
 #: \views\blocks\admin_edit.ctp:18
 msgid "if you are not sure, choose 'none'"
-msgstr ""
+msgstr "Wenn Sie nicht sicher sind, wählen Sie 'none'"
 
 #: \views\blocks\admin_add.ctp:35
 #: \views\blocks\admin_edit.ctp:36
 msgid "Enter one URL per line. Leave blank if you want this Block to appear in all pages."
-msgstr ""
+msgstr "Ein Url pro Linie. Leer lassen wenn diese Block auf allen Seiten gezeigt werden soll."
 
 #: \views\blocks\admin_index.ctp:6
 msgid "New Block"
@@ -1487,20 +1487,20 @@ msgstr "Sofort per Mail benachrichten"
 #: \views\contacts\admin_edit.ctp:49
 #: \views\types\admin_add.ctp:56
 msgid "Spam protection (requires Akismet API key)"
-msgstr ""
+msgstr "Spam Sicherheit (benötigt Akismet API key)"
 
 #: \views\contacts\admin_add.ctp:51
 #: \views\contacts\admin_edit.ctp:52
 #: \views\types\admin_add.ctp:59
 msgid "Use captcha? (requires Recaptcha API key)"
-msgstr ""
+msgstr "Captcha benutzen? (requires Recaptcha API key)"
 
 #: \views\contacts\admin_add.ctp:56
 #: \views\contacts\admin_edit.ctp:57
 #: \views\types\admin_add.ctp:65
 #: \views\types\admin_edit.ctp:66
 msgid "You can manage your API keys here."
-msgstr ""
+msgstr "Sie können ihr API Schlüssel hier verwalten."
 
 #: \views\contacts\admin_index.ctp:6
 msgid "New Contact"
@@ -1568,11 +1568,11 @@ msgstr ""
 
 #: \views\elements\node_more_info.ctp:29
 msgid "Leave a comment"
-msgstr ""
+msgstr "Kommentar hinterlassen"
 
 #: \views\elements\admin\logo.ctp:2
 msgid "Admin Panel"
-msgstr ""
+msgstr "Adminbereich"
 
 #: \views\elements\admin\logo.ctp:4
 msgid "Visit website"
@@ -1781,7 +1781,7 @@ msgstr "Als ungelesen markieren"
 #: \views\nodes\admin_add.ctp:17
 #: \views\nodes\admin_edit.ctp:34
 msgid "Custom fields"
-msgstr ""
+msgstr "Selbstdefinierte Felder"
 
 #: \views\nodes\admin_add.ctp:18
 #: \views\nodes\admin_edit.ctp:35
@@ -1913,7 +1913,7 @@ msgstr ""
 
 #: \views\themes\admin_index.ctp:5
 msgid "Current Theme"
-msgstr ""
+msgstr "Aktueller Theme"
 
 #: \views\themes\admin_index.ctp:17;35
 msgid "Regions supported: "
@@ -1921,7 +1921,7 @@ msgstr ""
 
 #: \views\themes\admin_index.ctp:22
 msgid "Available Themes"
-msgstr ""
+msgstr "Verfügbare Themes"
 
 #: \views\themes\admin_index.ctp:36
 msgid "Activate"
@@ -1935,16 +1935,16 @@ msgstr ""
 #: \views\types\admin_add.ctp:31
 #: \views\types\admin_edit.ctp:33
 msgid "Show author's name"
-msgstr ""
+msgstr "Zeige Name des Autors"
 
 #: \views\types\admin_add.ctp:34
 #: \views\types\admin_edit.ctp:36
 msgid "Show date"
-msgstr ""
+msgstr "Zeige Datum"
 
 #: \views\types\admin_index.ctp:6
 msgid "New Type"
-msgstr ""
+msgstr "Neue Typ"
 
 #: \views\users\admin_add.ctp:2
 msgid "Add User"
@@ -2002,5 +2002,5 @@ msgstr ""
 
 #: \webroot\test.php:99
 msgid "Debug setting does not allow access to this url."
-msgstr ""
+msgstr "Debug Einstellungen lassen kein Zugriff auf diese Url zu."
 

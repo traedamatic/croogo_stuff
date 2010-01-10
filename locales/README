@@ -9,8 +9,8 @@ Installation:
 
 
 ATTENTION!:
-The offical Croogo local directory structure starts in the language folder. Exsample: locales/german/<here croogo directory>.
-Just zip that directory and upload it to Croogo with the help of the local extension. Exsample: in locales/german you zip the folder "deu".
+The offical Croogo local directory structure starts in the language folder. Example: locales/german/<here croogo directory>.
+Just zip that directory and upload it to Croogo with the help of the local extension. Example: in locales/german you zip the folder "deu".
 
 
 Locales:

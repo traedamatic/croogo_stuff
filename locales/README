@@ -1,0 +1,31 @@
+Nicolas Traeder < traedamatic > <traedamatic@gmail.com> 
+
+Locales for the Croogo CMS <http://www.croogo.org>
+
+Installation:
+
+1. Download or Clone this Repo.
+2. Go to your Admin Panel and upload the <LANG>.zip
+
+
+ATTENTION!:
+The offical Croogo local directory structure starts in the language folder. Exsample: locales/german/<here croogo directory>.
+Just zip that directory and upload it to Croogo with the help of the local extension. Exsample: in locales/german you zip the folder "deu".
+
+
+Locales:
+
+german -  german translation of the default.po. 
+
+
+Further Reading:
+
+Multilingual Croogo Wikipage
+
+http://wiki.github.com/fahad19/croogo/multilingual
+
+Croogo Cms
+
+http://www.croogo.org/
+
+

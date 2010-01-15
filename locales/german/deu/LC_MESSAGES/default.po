@@ -135,7 +135,7 @@ msgstr "Blöcke veröffentlicht"
 
 #: \controllers\blocks_controller.php:141
 msgid "Blocks unpublished"
-msgstr "Blöcke versteckt "
+msgstr "Blöcke nicht öffentlich "
 
 #: \controllers\blocks_controller.php:143
 #: \controllers\comments_controller.php:115
@@ -527,27 +527,27 @@ msgstr "Pfad aktualisiert "
 
 #: \controllers\nodes_controller.php:280
 msgid "Invalid id for Node"
-msgstr ""
+msgstr "Ungültige Id für Node"
 
 #: \controllers\nodes_controller.php:284
 msgid "Node deleted"
-msgstr ""
+msgstr "Node gelöscht"
 
 #: \controllers\nodes_controller.php:319
 msgid "Nodes deleted."
-msgstr ""
+msgstr "Nodes gelöscht"
 
 #: \controllers\nodes_controller.php:322
 msgid "Nodes published"
-msgstr ""
+msgstr "Nodes veröffentlicht"
 
 #: \controllers\nodes_controller.php:325
 msgid "Nodes unpublished"
-msgstr ""
+msgstr "Nodes nicht veröffentlicht"
 
 #: \controllers\nodes_controller.php:328
 msgid "Nodes promoted"
-msgstr ""
+msgstr "Nodes promoted"
 
 #: \controllers\nodes_controller.php:331
 msgid "Nodes unpromoted"
@@ -555,15 +555,15 @@ msgstr ""
 
 #: \controllers\nodes_controller.php:353;386;412
 msgid "Invalid content type."
-msgstr ""
+msgstr "Ungültiger Inhalttyp"
 
 #: \controllers\nodes_controller.php:369
 msgid "Invalid Term."
-msgstr ""
+msgstr "Ungültiger Term"
 
 #: \controllers\nodes_controller.php:400
 msgid "Nodes"
-msgstr ""
+msgstr "Nodes"
 
 #: \controllers\regions_controller.php:31
 msgid "Region"
@@ -632,7 +632,7 @@ msgstr "Rolle gelöscht"
 
 #: \controllers\settings_controller.php:38
 msgid "Dashboard"
-msgstr ""
+msgstr "Kontrollbereich"
 
 #: \controllers\settings_controller.php:54
 msgid "Invalid Setting."
@@ -677,47 +677,47 @@ msgstr "Ungültiger Einstellungsschlüssel"
 #: \views\nodes\admin_add.ctp:15
 #: \views\nodes\admin_edit.ctp:32
 msgid "Terms"
-msgstr "Bestimmungen"
+msgstr "Begriffe"
 
 #: \controllers\terms_controller.php:56
 msgid "Add Term"
-msgstr "Bestimmung hinzufügen"
+msgstr "Begriff hinzufügen"
 
 #: \controllers\terms_controller.php:61;85
 msgid "The Term has been saved"
-msgstr "Bestimmung wurde gespeichert"
+msgstr "Begriff wurde gespeichert"
 
 #: \controllers\terms_controller.php:64;88
 msgid "The Term could not be saved. Please, try again."
-msgstr "Bestimmung konnte nicht gespeichert werden. Bitte, nochmal versuchen"
+msgstr "Begriff konnte nicht gespeichert werden. Bitte, nochmal versuchen"
 
 #: \controllers\terms_controller.php:77
 msgid "Edit Term"
-msgstr "Bestimmung bearbeiten"
+msgstr "Begriff bearbeiten"
 
 #: \controllers\terms_controller.php:80
 msgid "Invalid Term"
-msgstr "Ungültige Bestimmung"
+msgstr "Ungültige Begriff"
 
 #: \controllers\terms_controller.php:101
 msgid "Invalid id for Term"
-msgstr "Ungültige Id für Bestimmung"
+msgstr "Ungültige Id für Begriff"
 
 #: \controllers\terms_controller.php:105
 msgid "Term deleted"
-msgstr "Bestimmung gelöscht"
+msgstr "Begriff gelöscht"
 
 #: \controllers\terms_controller.php:147
 msgid "Terms deleted."
-msgstr "Bestimmungen gelöscht"
+msgstr "Begriff gelöscht"
 
 #: \controllers\terms_controller.php:150
 msgid "Terms published"
-msgstr "Bestimmungen veröffentlicht"
+msgstr "Begriff veröffentlicht"
 
 #: \controllers\terms_controller.php:153
 msgid "Terms unpublished"
-msgstr "eBestimmungen nicht veröffenlicht"
+msgstr "Begriff nicht öffenlicht"
 
 #: \controllers\themes_controller.php:37
 #: \views\elements\admin\navigation.ctp:50;52
@@ -857,78 +857,78 @@ msgstr "Ungültiger Benutzer."
 #: \views\vocabularies\admin_add.ctp:7
 #: \views\vocabularies\admin_edit.ctp:8
 msgid "Vocabulary"
-msgstr ""
+msgstr "Klassifizierungslisten"
 
 #: \controllers\vocabularies_controller.php:39
 msgid "Add Vocabulary"
-msgstr ""
+msgstr "Klassifizierungsliste hinzufügen"
 
 #: \controllers\vocabularies_controller.php:44;64
 msgid "The Vocabulary has been saved"
-msgstr ""
+msgstr "Klassifizierungsliste wurde gespeicht."
 
 #: \controllers\vocabularies_controller.php:47;67
 msgid "The Vocabulary could not be saved. Please, try again."
-msgstr ""
+msgstr "Klassifizierungslist konnte nicht gespeichert werden. Bitte, noch mal versuchen."
 
 #: \controllers\vocabularies_controller.php:56
 msgid "Edit Vocabulary"
-msgstr ""
+msgstr "Bearbeite Klassifizierungsliste"
 
 #: \controllers\vocabularies_controller.php:59
 msgid "Invalid Vocabulary"
-msgstr ""
+msgstr "Ungültige Klassifizierungsliste"
 
 #: \controllers\vocabularies_controller.php:80
 msgid "Invalid id for Vocabulary"
-msgstr ""
+msgstr "Ungültige Id für Klassifizierungsliste"
 
 #: \controllers\vocabularies_controller.php:84
 msgid "Vocabulary deleted"
-msgstr ""
+msgstr "Klassifizierungslisten"
 
 #: \models\behaviors\croogo_translate.php:71
 msgid "Datasource %s for CroogoTranslateBehavior of model %s is not connected"
-msgstr ""
+msgstr "Datenquelle %s für CroogoTranslateBehavior von Model %s ist nicht verbunden"
 
 #: \models\behaviors\croogo_translate.php:470
 msgid "Association %s is already binded to model %s"
-msgstr ""
+msgstr "Verbindung %s besteht schon zum Model %s"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:19
 #: \plugins\acl\views\acl_acos\admin_index.ctp:2
 msgid "Acos"
-msgstr ""
+msgstr "Acos"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:26
 #: \plugins\acl\views\acl_acos\admin_add.ctp:2
 #: \plugins\acl\views\acl_acos\admin_edit.ctp:2
 msgid "Add Aco"
-msgstr ""
+msgstr "Aco hinzugefügt"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:31;48
 msgid "The Aco has been saved"
-msgstr ""
+msgstr "Aco wurde gespeichert"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:34;51
 msgid "The Aco could not be saved. Please, try again."
-msgstr ""
+msgstr "Aco konnte nicht gespeicht werden. Bitte noch mal versuchen."
 
 #: \plugins\acl\controllers\acl_acos_controller.php:40
 msgid "Edit Aco"
-msgstr ""
+msgstr "Bearbeite Aco"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:43
 msgid "Invalid Aco"
-msgstr ""
+msgstr "Ungültige Aco"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:61
 msgid "Invalid id for Aco"
-msgstr ""
+msgstr "Ungültige Id für Aco"
 
 #: \plugins\acl\controllers\acl_acos_controller.php:65
 msgid "Aco deleted"
-msgstr ""
+msgstr "Aco gelöscht"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:20
 #: \plugins\acl\views\acl_acos\admin_index.ctp:18
@@ -953,78 +953,78 @@ msgstr ""
 #: \views\users\admin_index.ctp:18
 #: \views\vocabularies\admin_index.ctp:16
 msgid "Actions"
-msgstr ""
+msgstr "Aktionen"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:32
 msgid "Add Action"
-msgstr ""
+msgstr "Aktion hinzufügen"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:72
 msgid "Edit Action"
-msgstr ""
+msgstr "Bearbeite Aktion"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:75
 msgid "Invalid Action"
-msgstr ""
+msgstr "Ungültige Aktion"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:80
 msgid "The Action has been saved"
-msgstr ""
+msgstr "Aktion wurde gespeichert"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:83
 msgid "The Action could not be saved. Please, try again."
-msgstr ""
+msgstr "Aktion konnte nicht gespeicht werden. Bitte, noch mal versuchen-"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:110;121
 msgid "Invalid id for Action"
-msgstr ""
+msgstr "Ungültige Id für Aktion"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:114
 msgid "Action deleted"
-msgstr ""
+msgstr "Aktion gelöscht"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:126
 msgid "Action moved up"
-msgstr ""
+msgstr "Aktion bewegt nach oben"
 
 #: \plugins\acl\controllers\acl_actions_controller.php:131
 msgid "Action moved down"
-msgstr ""
+msgstr "Aktion bewegt nach unten"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:19
 #: \plugins\acl\views\acl_aros\admin_index.ctp:2
 msgid "Aros"
-msgstr ""
+msgstr "Aros"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:26
 #: \plugins\acl\views\acl_aros\admin_add.ctp:2
 #: \plugins\acl\views\acl_aros\admin_edit.ctp:2
 msgid "Add Aro"
-msgstr ""
+msgstr "Aro hinzufügen"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:31;48
 msgid "The Aro has been saved"
-msgstr ""
+msgstr "Aro wurde gespeichert"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:34;51
 msgid "The Aro could not be saved. Please, try again."
-msgstr ""
+msgstr "Aro konnte nicht gespeichert werden. Bitte, noch mal versuchen"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:40
 msgid "Edit Aro"
-msgstr ""
+msgstr "Bearbeite Aro"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:43
 msgid "Invalid Aro"
-msgstr ""
+msgstr "Ungültige Aro"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:61
 msgid "Invalid id for Aro"
-msgstr ""
+msgstr "Ungültige Id für Aro"
 
 #: \plugins\acl\controllers\acl_aros_controller.php:65
 msgid "Aro deleted"
-msgstr ""
+msgstr "Aro gelöscht"
 
 #: \plugins\acl\controllers\acl_permissions_controller.php:19
 #: \views\elements\admin\navigation.ctp:46
@@ -1033,7 +1033,7 @@ msgstr "Rechte"
 
 #: \plugins\acl\views\acl_acos\admin_index.ctp:6
 msgid "New Aco"
-msgstr ""
+msgstr "Neues Aco"
 
 #: \plugins\acl\views\acl_acos\admin_index.ctp:24
 #: \plugins\acl\views\acl_actions\admin_index.ctp:41
@@ -1128,7 +1128,7 @@ msgstr "Seite %page% von %pages%, zeigt %current% Eintrag von ingesamt  %count%,
 #: \plugins\acl\views\acl_actions\admin_add.ctp:9
 #: \plugins\acl\views\acl_actions\admin_edit.ctp:11
 msgid "Choose none if the Aco is a controller."
-msgstr ""
+msgstr "Wähle None wenn das Aco ein Kontroller ist"
 
 #: \plugins\acl\views\acl_actions\admin_index.ctp:10
 msgid "New Action"
@@ -1150,7 +1150,7 @@ msgstr "Id"
 #: \plugins\acl\views\acl_actions\admin_index.ctp:19
 #: \plugins\acl\views\acl_permissions\admin_index.ctp:21
 msgid "Alias"
-msgstr ""
+msgstr "Alias"
 
 #: \plugins\acl\views\acl_actions\admin_index.ctp:43
 #: \views\blocks\admin_index.ctp:26
@@ -1172,11 +1172,11 @@ msgstr "Nach unten"
 
 #: \plugins\acl\views\acl_aros\admin_index.ctp:6
 msgid "New Aro"
-msgstr ""
+msgstr "Neues Aro"
 
 #: \plugins\acl\views\acl_permissions\admin_index.ctp:10
 msgid "Edit Actions"
-msgstr ""
+msgstr "Bearbeite Aktions"
 
 #: \plugins\acl\views\acl_permissions\admin_toggle.ctp:9
 msgid "error"
@@ -1184,19 +1184,19 @@ msgstr "Fehler"
 
 #: \plugins\debug_kit\controllers\components\toolbar.php:85
 msgid "Component initialization and startup"
-msgstr ""
+msgstr "Komponent initialisieren und starten"
 
 #: \plugins\debug_kit\controllers\components\toolbar.php:123
 msgid "Controller Action"
-msgstr ""
+msgstr "Kontroller Aktion"
 
 #: \plugins\debug_kit\controllers\components\toolbar.php:150
 msgid "Render Controller Action"
-msgstr ""
+msgstr "Berechne Kontroller Aktion"
 
 #: \plugins\debug_kit\controllers\components\toolbar.php:163
 msgid "Could not load DebugToolbar panel %s"
-msgstr ""
+msgstr "Konnte DebugToolbar panel %s nicht laden"
 
 #: \plugins\debug_kit\vendors\fire_cake.php:298
 msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
@@ -1204,7 +1204,7 @@ msgstr ""
 
 #: \plugins\debug_kit\vendors\fire_cake.php:319
 msgid "Incorrect parameter count for FireCake::fb()"
-msgstr ""
+msgstr "Falscher Parameteranzahl für FireCake::fb()"
 
 #: \plugins\debug_kit\vendors\fire_cake.php:392
 msgid "Maximum number (99,999) of messages reached!"
@@ -1212,19 +1212,19 @@ msgstr "Maximale Anzahl (99,999) an Nachrichten erreicht"
 
 #: \plugins\debug_kit\views\debug.php:57
 msgid "Rendering %s"
-msgstr ""
+msgstr "Berechnung %s"
 
 #: \plugins\debug_kit\views\debug.php:79
 msgid "Rendering View"
-msgstr ""
+msgstr "Berechne View"
 
 #: \plugins\debug_kit\views\elements\debug_toolbar.ctp:32
 msgid "There are no active panels. You must enable a panel to see its output."
-msgstr ""
+msgstr "Es gibt keinen aktiven Panel. Sie müssen ein Panel aktivieren um die Ausgabe zu sehen."
 
 #: \plugins\debug_kit\views\elements\log_panel.ctp:29
 msgid "Logs"
-msgstr ""
+msgstr "Logdatein"
 
 #: \plugins\debug_kit\views\elements\log_panel.ctp:36
 msgid "Time"
@@ -1260,7 +1260,7 @@ msgstr "Nachfrage"
 
 #: \plugins\debug_kit\views\elements\request_panel.ctp:44
 msgid "Current Route"
-msgstr ""
+msgstr "Aktuelle Route"
 
 #: \plugins\debug_kit\views\elements\session_panel.ctp:30
 msgid "Session"
@@ -1276,7 +1276,7 @@ msgstr "Keine aktive Datebankverbindungen"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:31
 msgid "Timers"
-msgstr ""
+msgstr "Timers"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:33
 msgid "%s (seconds)"
@@ -1284,15 +1284,15 @@ msgstr "%s (sekunden)"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:34
 msgid "Total Request Time:"
-msgstr ""
+msgstr "Gesamtzeit der Anfrage:"
 
 #: \plugins\debug_kit\views\elements\timer_panel.ctp:42
 msgid "time in seconds"
-msgstr ""
+msgstr "Zeit in Sekunden"
 
 #: \plugins\debug_kit\views\elements\variables_panel.ctp:30
 msgid "View Variables"
-msgstr ""
+msgstr "View Variablen"
 
 #: \plugins\install\controllers\install_controller.php:56
 msgid "Installation: Welcome"
@@ -1324,7 +1324,7 @@ msgstr "Installations Datei erfolgreich gelöscht"
 
 #: \plugins\install\controllers\install_controller.php:136
 msgid "Could not delete installation files."
-msgstr ""
+msgstr "Installationsdateien konnten nicht gelöscht werden."
 
 #: \plugins\install\views\install\data.ctp:5
 msgid "Click here to build your database"
@@ -1548,7 +1548,7 @@ msgstr "Email"
 
 #: \views\elements\comments_form.ctp:33;41
 msgid "Website"
-msgstr ""
+msgstr "Internetseite"
 
 #: \views\elements\comments_form.ctp:48
 msgid "Post comment"
@@ -1564,7 +1564,7 @@ msgstr ""
 
 #: \views\elements\node_more_info.ctp:17
 msgid "Posted in"
-msgstr ""
+msgstr "Posted in"
 
 #: \views\elements\node_more_info.ctp:29
 msgid "Leave a comment"
@@ -1590,7 +1590,7 @@ msgstr "Inhalt Typen "
 #: \views\types\admin_add.ctp:8
 #: \views\types\admin_edit.ctp:9
 msgid "Taxonomy"
-msgstr ""
+msgstr "Klassifizierung"
 
 #: \views\elements\admin\navigation.ctp:24
 msgid "Regions"
@@ -1598,7 +1598,7 @@ msgstr "Regionen"
 
 #: \views\elements\admin\navigation.ctp:28
 msgid "Media"
-msgstr ""
+msgstr "Medien"
 
 #: \views\elements\admin\navigation.ctp:31
 msgid "File Manager"
@@ -1606,7 +1606,7 @@ msgstr "Dateimanager"
 
 #: \views\elements\admin\nodes_filter.ctp:25
 msgid "Unpublished"
-msgstr "Versteckt"
+msgstr "Nicht veröffentlicht"
 
 #: \views\elements\admin\nodes_filter.ctp:35
 msgid "Promoted"
@@ -1623,7 +1623,7 @@ msgstr "Nein"
 #: \views\elements\admin\nodes_filter.ctp:43
 #: \views\nodes\admin_index.ctp:10
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: \views\elements\admin\quick.ctp:4
 msgid "You are logged in as "
@@ -1648,7 +1648,7 @@ msgstr "Bitte besuchen Sie diesen Link um ihr Passwort zurück zusetzen"
 
 #: \views\elements\email\text\forgot_password.ctp:14
 msgid "If you did not request a password reset, then please ignore this email."
-msgstr ""
+msgstr "Wenn Sie ihr Passwort nicht zurücksetzten wollten, bitte ignorieren Sie die Email."
 
 #: \views\elements\email\text\register.ctp:4
 msgid "Please visit this link to activate your account"
@@ -1667,7 +1667,7 @@ msgstr "Fehler"
 #: \views\errors\missing_action.ctp:4
 #: \views\errors\missing_controller.ctp:4
 msgid "The requested address was not found on this server."
-msgstr ""
+msgstr "Die angeforderte Adresse konnte auf dem Server nicht gefunden werden."
 
 #: \views\filemanager\admin_browse.ctp:6
 msgid "Upload here"
@@ -1732,12 +1732,12 @@ msgstr "Link"
 #: \views\settings\admin_add.ctp:8
 #: \views\settings\admin_edit.ctp:8
 msgid "Misc."
-msgstr ""
+msgstr "Verschiedenes"
 
 #: \views\links\admin_add.ctp:16
 #: \views\links\admin_edit.ctp:17
 msgid "Parent"
-msgstr ""
+msgstr "Ursprung"
 
 #: \views\links\admin_add.ctp:22
 #: \views\links\admin_edit.ctp:23
@@ -1760,7 +1760,7 @@ msgstr "Aktiv"
 #: \views\menus\admin_add.ctp:7
 #: \views\menus\admin_edit.ctp:7
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: \views\menus\admin_index.ctp:6
 msgid "New Menu"
@@ -1812,7 +1812,7 @@ msgstr "Lesen/Schreiben"
 #: \views\nodes\admin_add.ctp:68
 #: \views\nodes\admin_edit.ctp:84
 msgid "Add another field"
-msgstr ""
+msgstr "Neues Feld hinzufügen"
 
 #: \views\nodes\admin_add.ctp:74
 #: \views\nodes\admin_edit.ctp:90
@@ -1834,7 +1834,7 @@ msgstr ""
 
 #: \views\nodes\admin_links.ctp:24
 msgid "Sort by:"
-msgstr ""
+msgstr "Sotiert nach:"
 
 #: \views\nodes\index.ctp:4
 #: \views\nodes\promoted.ctp:4
@@ -1844,7 +1844,7 @@ msgstr "Keine Einträge gefunden."
 
 #: \views\nodes\term.ctp:2
 msgid "Term:"
-msgstr ""
+msgstr "Begriff:"
 
 #: \views\regions\admin_index.ctp:6
 msgid "New Region"
@@ -1857,12 +1857,12 @@ msgstr "Neue Rolle"
 #: \views\settings\admin_add.ctp:13
 #: \views\settings\admin_edit.ctp:14
 msgid "e.g., 'Site.title'"
-msgstr ""
+msgstr "z. B. 'Site.title'"
 
 #: \views\settings\admin_add.ctp:22
 #: \views\settings\admin_edit.ctp:23
 msgid "e.g., 'text' or 'textarea'"
-msgstr ""
+msgstr "z. B. 'text' oder 'textarea'"
 
 #: \views\settings\admin_index.ctp:6
 #: \views\settings\admin_view.ctp:46
@@ -1909,7 +1909,7 @@ msgstr "Zeige Einstellungen"
 
 #: \views\terms\admin_index.ctp:6
 msgid "New Term"
-msgstr ""
+msgstr "Neuer Begriff"
 
 #: \views\themes\admin_index.ctp:5
 msgid "Current Theme"
@@ -1917,7 +1917,7 @@ msgstr "Aktueller Theme"
 
 #: \views\themes\admin_index.ctp:17;35
 msgid "Regions supported: "
-msgstr ""
+msgstr "Regionen unterstützt:"
 
 #: \views\themes\admin_index.ctp:22
 msgid "Available Themes"
@@ -1925,12 +1925,12 @@ msgstr "Verfügbare Themes"
 
 #: \views\themes\admin_index.ctp:36
 msgid "Activate"
-msgstr ""
+msgstr "Aktivieren"
 
 #: \views\types\admin_add.ctp:9
 #: \views\types\admin_edit.ctp:10
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: \views\types\admin_add.ctp:31
 #: \views\types\admin_edit.ctp:33
@@ -1994,11 +1994,11 @@ msgstr "Optionen"
 
 #: \views\vocabularies\admin_index.ctp:6
 msgid "New Vocabulary"
-msgstr ""
+msgstr "Neu Klassifizierungsliste"
 
 #: \views\vocabularies\admin_index.ctp:22
 msgid "View terms"
-msgstr ""
+msgstr "Zeige Begriffe"
 
 #: \webroot\test.php:99
 msgid "Debug setting does not allow access to this url."

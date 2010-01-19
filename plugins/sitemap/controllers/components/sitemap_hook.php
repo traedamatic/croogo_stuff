@@ -28,15 +28,6 @@ class SitemapHookComponent extends Object {
 
         // Routes: app/plugins/example/config/routes.php will be loaded in app/config/routes.php
         $controller->Croogo->addPluginRoutes('sitemap');
-
-        // Main menu: add an Example link
-        /*$mainMenu = $controller->Link->Menu->findByAlias('main');
-        $controller->Link->save(array(
-            'menu_id' => $mainMenu['Menu']['id'],
-            'title' => 'Sitemap',
-            'link' => 'plugin:sitemap/controller:sitemap/action:index',
-            'status' => 1,
-        ));*/
         
         $controller->Setting->write('Sitemap.changefreq','weekly',array('description' => 'Default Changefeq of the Sitemap entries','editable' => 1));
         $controller->Setting->write('Sitemap.priority',0.8,array('description' => 'Default Priority of the Sitemap entries','editable' => 1));
@@ -55,18 +46,7 @@ class SitemapHookComponent extends Object {
 
         // Routes: remove
         $controller->Croogo->removePluginRoutes('sitemap');
-
-        // Main menu: delete Example link
-        /*$link = $controller->Link->find('first', array(
-            'conditions' => array(
-                'Menu.alias' => 'main',
-                'Link.link' => 'plugin:sitemap/controller:sitemap/action:index',
-            ),
-        ));
-        if (isset($link['Link']['id'])) {
-            $controller->Link->delete($link['Link']['id']);
-        }*/
-                
+       
         $controller->Setting->deleteKey('Sitemap.changefreq');
         $controller->Setting->deleteKey('Sitemap.priority');
         
